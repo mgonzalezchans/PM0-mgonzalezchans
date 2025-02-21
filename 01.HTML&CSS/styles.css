@@ -1,0 +1,112 @@
+body {
+    background-color: #fff;
+    margin: 0;
+    font-family: poppins;
+    width: 1440px;
+    height: 861px;
+
+}
+
+.nav {
+    background-color: #f1f1f1;
+    width: 1440px;
+    height: 89px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo__henry {
+    margin: 36px 273.22px 26px 65px;
+}
+
+.nav__list {
+    margin: auto;
+    width: 888px;
+    height: 33px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 69px;
+}
+
+.nav__item {
+    display: inline-block;
+}
+
+.nav__link {
+    text-decoration: none;
+    color: #222;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.link--home {
+    color: #fff;
+    padding: 4px 16px 5px 16px;
+    border-radius: 9px;
+    background-color: #222;
+}
+
+.contenido {
+    display: flex;
+    flex-direction: row;
+}
+
+.contenido__text {
+    margin: 108px 56.45px 258px 128px;
+}
+
+.contenido__img {
+    padding: 0;
+    margin: 108px 146px 74px 0px;
+}
+
+.imagen {
+    width: 501.55px;
+    height: 590px;
+    border-radius: 20px;
+    box-shadow: 0 4px 4px 0 #000;
+}
+
+.subtitle {
+    background-color: #f1f1f1;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 11px;
+    width: 324px;
+    height: 46px;
+    border-radius: 23px;
+    margin: 5px;
+    color: #222;
+}
+
+.title {
+    font-family: Satoshi; 
+    font-weight: 900;
+    font-size: 90px;
+    margin: 0;
+    margin-left: 7px;
+    color: #222;
+}
+
+.title__amarillo {
+    background-color: #FF0;
+    width: 608px;
+    height: 117px;
+    border-radius: 418px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 12px;
+}
+
+.description {
+    font-family: satoshi;
+    font-weight: 500;
+    color: #676767;
+    font-size: 30px;
+}
+
